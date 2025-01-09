@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-# Portfolio
-=======
-# React + Vite
+# SkyCast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkyCast is a weather web application built with React, designed to provide real-time weather data, including temperature, humidity, wind speed, and more. It fetches data from the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 07a646a (Initial commit)
+- Get current weather data by entering a city name.
+- Displays key weather information: temperature, humidity, wind speed, and pressure.
+- Simple and clean user interface with a modern design.
